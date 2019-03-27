@@ -1,3 +1,3 @@
 # OHealth Android
 
-![Andorid App](OHealth_Poster3.png)
+![Andorid App](OH_Poster3.png)
