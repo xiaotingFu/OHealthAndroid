@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/md_grey_100"
+    tools:context="com.example.sisyphus.firebasetest1.activity.ScheduleAlertActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/md_purple_300">
+        <Button
+            android:id="@+id/saveBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="right"
+            android:background="@null"
+            android:text="SAVE"
+            android:textColor="#FFF"
+            android:textSize="18sp" />
+    </android.support.v7.widget.Toolbar>
+    <TextView
+        android:id="@+id/label1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Frequency"
+       android:layout_marginTop="10dp"
+        android:layout_marginStart="30dp"
+        android:layout_below="@+id/toolbar"
+        android:textSize="14dp"
+        android:layout_alignParentStart="true" />
+
+    <RelativeLayout
+        android:id="@+id/spinner_Container"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@color/md_grey_300"
+        android:layout_below="@+id/label1"
+        android:layout_alignStart="@+id/label1"
+        android:padding="5dp">
+        <Spinner
+            android:id="@+id/interval"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:backgroundTint="@color/md_purple_300"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/label2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Set Alert time and Quantity"
+        android:layout_marginTop="9dp"
+        android:textSize="14dp"
+        android:layout_below="@+id/spinner_Container"
+        android:layout_alignStart="@+id/spinner_Container" />
+    <RelativeLayout
+        android:id="@+id/spinner_Container2"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@color/md_grey_300"
+        android:layout_below="@+id/label2"
+        android:layout_alignStart="@+id/label2"
+        android:padding="5dp">
+       <ListView
+          android:id="@+id/tq_list"
+           android:layout_width="match_parent"
+           android:layout_height="240dp">
+
+       </ListView>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/label3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Day"
+        android:layout_marginTop="9dp"
+        android:textSize="14dp"
+        android:layout_below="@+id/spinner_Container2"
+        android:layout_alignStart="@+id/spinner_Container2" />
+
+    <RelativeLayout
+        android:id="@+id/spinner_Container3"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@color/md_grey_300"
+        android:layout_below="@+id/label3"
+        android:layout_alignStart="@+id/label3"
+        android:padding="5dp">
+        <TextView
+            android:id="@+id/startDay"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:backgroundTint="@color/md_purple_300"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            style="@style/Widget.AppCompat.Spinner.DropDown"
+            android:textSize="16dp"/>
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/label4"
+        android:textSize="14dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medication Instruction:"
+        android:layout_marginTop="9dp"
+        android:layout_below="@+id/spinner_Container3"
+        android:layout_alignStart="@+id/spinner_Container3" />
+
+
+    <RadioGroup
+        android:id="@+id/group"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/label4"
+        android:background="@color/md_grey_300"
+        android:layout_alignStart="@+id/label4">
+
+        <RadioButton
+            android:id="@+id/radioBefore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:checked="true"
+            android:text="Before Food"
+            android:textSize="16dp" />
+
+        <RadioButton
+            android:id="@+id/radioAfter"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:textSize="16dp"
+            android:text="After Food" />
+
+    </RadioGroup>
+
+    <RelativeLayout
+        android:id="@+id/switch_container"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:background="@color/md_grey_300"
+        android:layout_below="@+id/group"
+        android:layout_alignStart="@+id/group"
+        android:layout_marginTop="8dp">
+        <ImageView
+            android:id="@+id/imageView4"
+            android:scaleType = "fitXY"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            app:srcCompat="@drawable/ic_clock"
+            android:layout_marginStart="8dp"
+            android:layout_alignTop="@+id/label5"
+            android:layout_alignParentStart="true" />
+        <TextView
+            android:id="@+id/label5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Set Alert"
+            android:textSize="16dp"
+            android:layout_alignBaseline="@+id/alertSwitch"
+            android:layout_alignBottom="@+id/alertSwitch"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="37dp" />
+        <Switch
+            android:id="@+id/alertSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Off   "
+            android:textSize="16dp"
+            android:textColor="@color/md_grey_700"
+            android:layout_marginEnd="23dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>

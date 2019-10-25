@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="100dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="6dip"
+    android:background="@color/md_grey_800">
+
+
+
+    <TextView
+        android:id="@+id/foodName"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:text="White Rice"
+        android:textSize="18sp"
+        android:textColor="@color/md_blue_200"
+
+        android:layout_above="@+id/cal"
+        android:layout_alignStart="@+id/cal" />
+    <TextView
+        android:id="@+id/cal"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textSize="12sp"
+        android:textColor="@color/md_grey_400"
+        android:layout_marginStart="21dp"
+        android:layout_below="@+id/quantity"
+        android:layout_alignParentStart="true" />
+
+    <ImageButton
+        android:id="@+id/minus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        app:srcCompat="@drawable/ic_minus_circle"
+        android:layout_marginStart="32dp"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/foodName" />
+
+    <TextView
+        android:id="@+id/quantity"
+        android:layout_width="20dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="15dp"
+        android:layout_toEndOf="@+id/minus"
+        android:text="10"
+        android:textAlignment="center"
+        android:textColor="@color/md_grey_400"
+        android:textSize="14sp" />
+
+    <ImageButton
+        android:id="@+id/plus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        app:srcCompat="@drawable/ic_plus_circle"
+        android:layout_alignTop="@+id/minus"
+        android:layout_toEndOf="@+id/quantity"
+        android:layout_marginStart="14dp" />
+
+</RelativeLayout>

@@ -1,0 +1,285 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sisyphus.firebasetest1.fragment.HomeFragment">
+
+
+
+    <android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:cardView="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view_steps"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        cardView:cardBackgroundColor="@color/md_indigo_800"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_centerHorizontal="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/header1"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="10dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ic_step_white" />
+
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text="Steps"
+                android:textColor="@color/white"
+                android:textSize="22dp"
+                android:textStyle="bold"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true" />
+
+            <TextView
+                android:id="@+id/steps_view"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text=" 0"
+                android:textColor="@color/white"
+                android:textSize="20dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignStart="@+id/title" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text=" steps today"
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:layout_alignBaseline="@+id/steps_view"
+                android:layout_alignBottom="@+id/steps_view"
+                android:layout_alignEnd="@+id/title" />
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:cardView="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view_sleep"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        cardView:cardBackgroundColor="@color/md_blue_grey_900"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/card_view_steps"
+        android:layout_centerHorizontal="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/header_sleep"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="10dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ic_sleep_white" />
+
+            <TextView
+                android:id="@+id/title_sleep"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginEnd="9dp"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text="Sleep"
+                android:textColor="@color/white"
+                android:textSize="22dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/sleep_duration"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignStart="@+id/title_sleep"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text="Duration"
+                android:textColor="@color/white"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/sleep_Rate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text="slept last night"
+                android:textColor="@color/white"
+                android:textSize="16dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true" />
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:cardView="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view_diet"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        cardView:cardBackgroundColor="@color/md_orange_600"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/card_view_sleep"
+        android:layout_alignStart="@+id/card_view_sleep">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/header_diet"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="14dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ic_diet_white" />
+
+            <TextView
+                android:id="@+id/title_diet"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginEnd="11dp"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text="Diet"
+                android:textColor="@color/white"
+                android:textSize="22dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/diet_cal"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text=" cal number"
+                android:textColor="@color/white"
+                android:textSize="20dp"
+                android:layout_below="@+id/title_diet"
+                android:layout_alignStart="@+id/title_diet" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/diet_cal"
+                android:layout_alignBottom="@+id/diet_cal"
+                android:layout_alignParentEnd="true"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text="cal taken"
+                android:textColor="@color/white"
+                android:textSize="16dp" />
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:cardView="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view_med"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        cardView:cardBackgroundColor="@color/md_purple_600"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/card_view_diet"
+        android:layout_centerHorizontal="true">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp">
+            <ImageView
+                android:id="@+id/header_med"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ic_med_white"
+                android:layout_centerVertical="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="17dp" />
+
+            <TextView
+                android:id="@+id/title_med"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text="Medication"
+                android:textColor="@color/white"
+                android:textSize="22dp"
+                android:textStyle="bold"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="9dp" />
+
+            <TextView
+                android:id="@+id/med"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text="med to take"
+                android:textColor="@color/white"
+                android:textSize="16dp"
+                android:layout_below="@+id/title_med"
+                android:layout_alignEnd="@+id/title_med" />
+            <TextView
+                android:id="@+id/med_num"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text=" number"
+                android:textColor="@color/white"
+                android:textSize="16dp"
+                android:layout_alignBottom="@+id/med"
+                android:layout_alignStart="@+id/title_med" />
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    fab:context="com.example.sisyphus.firebasetest1.fragment.PageFragment">
+
+    <RelativeLayout
+        android:id="@+id/pickerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@color/md_grey_300">
+
+        <TextView
+            android:id="@+id/datePicker"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:background="@drawable/back_purple"
+            android:text="Current Date"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="18dp"
+            style="@android:style/Widget.Material.DropDownItem.Spinner"/>
+
+
+    </RelativeLayout>
+
+
+    <ListView
+        android:id="@+id/med_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/pickerLayout" />
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_plus"
+        android:layout_gravity="bottom|end"
+        android:layout_marginLeft="@dimen/fab_margin"
+        android:layout_marginRight="@dimen/fab_margin"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        app:backgroundTint="@color/md_purple_300"
+        android:layout_marginEnd="12dp"
+        android:scaleType="center"
+        android:layout_marginBottom="14dp" />
+
+</RelativeLayout>

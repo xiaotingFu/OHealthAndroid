@@ -1,0 +1,177 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/md_blue_grey_900"
+    tools:context="com.example.sisyphus.firebasetest1.activity.AddActivity">
+
+    <!--Toolbar-->
+    <include
+        android:id="@+id/tToolbar"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        layout="@layout/my_toolbar"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:padding="10dip"
+        android:layout_below="@+id/tToolbar">
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            app:srcCompat="@drawable/ic_sleep"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="61dp" />
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            app:srcCompat="@drawable/ic_clock"
+            android:layout_marginEnd="70dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dip"
+        android:weightSum="1"
+        android:layout_marginBottom="57dp"
+        android:layout_below="@+id/header"
+        android:layout_alignParentStart="true"
+        android:background="@color/md_blue_grey_800">
+        <TextView
+            android:id="@+id/label1"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Fell asleep hour"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/label2"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/label1"
+            android:text="Woke up time"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:id="@+id/sleepTimePickerTextView"
+            style="@android:style/Widget.Holo.Spinner"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/label1"
+            android:layout_marginEnd="21dp"
+            android:layout_toStartOf="@+id/label2"
+            android:text="Sleep Hour"
+            android:textAlignment="center"
+            android:textColor="@color/md_blue_200"
+            android:textSize="18sp" />
+
+
+        <TextView
+            android:id="@+id/wakeTimePickerTextView"
+            style="@android:style/Widget.Holo.Spinner"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/label2"
+            android:layout_below="@+id/label1"
+            android:text="Wake Hour"
+            android:textAlignment="center"
+            android:textColor="@color/md_blue_200"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/wakeDatePickerTextView"
+            style="@android:style/Widget.Holo.Spinner"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/wakeTimePickerTextView"
+            android:layout_below="@+id/wakeTimePickerTextView"
+            android:text="Wake Date"
+            android:textAlignment="center"
+            android:textColor="@color/md_blue_200"
+            android:textSize="18sp" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:padding="10dip"
+        android:id="@+id/relativeLayout"
+        android:layout_below="@+id/header"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="148dp">
+
+        <TextView
+            android:id="@+id/label3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total Time Slept"
+            android:textColor="@color/white"
+            android:layout_centerHorizontal="true"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/totalTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8 hr 30 m"
+            android:layout_below="@+id/label3"
+            android:textColor="@color/md_blue_200"
+            android:layout_centerHorizontal="true"
+            android:textSize="40sp" />
+
+        <TextView
+            android:id="@+id/rate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rate Your Sleep"
+            android:textColor="@color/md_white_1000"
+            android:textSize="18sp"
+            android:layout_below="@+id/totalTime"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp" />
+
+
+        <me.zhanghai.android.materialratingbar.MaterialRatingBar
+            android:id="@+id/ratingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:maxHeight="48dp"
+            style="@style/RatingBar_back"
+            android:layout_below="@+id/rate"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="-4dp"
+            android:layout_marginRight="-4dp"
+            android:rating="0"
+            android:stepSize="1.0"/>
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

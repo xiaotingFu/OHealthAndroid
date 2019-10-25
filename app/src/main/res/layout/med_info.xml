@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="70dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="6dip"
+    android:background="@color/md_grey_200">
+
+
+        <TextView
+            android:id="@+id/med_name"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:text="阿莫西林"
+            android:textSize="18sp"
+            android:textColor="@color/md_purple_300"
+            android:layout_marginEnd="26dp"
+            android:layout_above="@+id/drugType"
+            android:layout_toStartOf="@+id/forward" />
+
+
+        <TextView
+            android:id="@+id/drugType"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Drug type: "
+            android:textSize="12sp"
+            android:textColor="@color/md_grey_900"
+            android:layout_alignBottom="@+id/forward"
+            android:layout_alignStart="@+id/med_name" />
+        <TextView
+            android:id="@+id/label"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="Total Quantity:"
+            android:textAlignment="textStart"
+            android:textColor="@color/md_grey_900"
+            android:textSize="12sp"
+            android:layout_below="@+id/drugType"
+            android:layout_alignStart="@+id/drugType" />
+
+        <TextView
+            android:id="@+id/totalQuan"
+            android:layout_width="25dp"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/unit"
+            android:layout_alignBottom="@+id/unit"
+            android:layout_toEndOf="@+id/label"
+            android:text="30"
+            android:textAlignment="center"
+            android:textColor="@color/md_grey_900"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/unit"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="gram"
+            android:textSize="12sp"
+            android:textColor="@color/md_grey_900"
+            android:layout_below="@+id/drugType"
+            android:layout_toEndOf="@+id/totalQuan" />
+
+        <ImageButton
+            android:id="@+id/forward"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            app:srcCompat="@drawable/ic_forward_purple"
+            android:layout_marginEnd="9dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true" />
+
+
+
+</RelativeLayout>

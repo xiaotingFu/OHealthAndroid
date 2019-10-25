@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/34de30535b5a3ca84a1036d0b63b0298d295eef7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d1c12b21ea9c066c128f58324d061602fe64c62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/bd3a52fe58bb27a52f2fb729dda9389b231d82ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23d6176722440834e602b1833a7dba78a455b9a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_03201f47350193728ecf65edeae2d8327e987f51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/f02a86a70c1d8f2b469e353b58ef0ed3d6b823d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b41740242050a966309137411642eb066f8a33c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/99d6ae4f3abf7e4fd534b6293bfd8cd6c6a320ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_614cfaa93d9b7e8beeba4a6a5d52d39cc5579cb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/32d5afc9f00c7dc1468d4799670856c44f07a718/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc45e301e8230b5adda12721927a7a5a65021c24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/7d9b8261c0b926d09a2a64b98f55947a713568ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99476cc128e67ca22372063a52e90d73fbf1459a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/34de30535b5a3ca84a1036d0b63b0298d295eef7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_0d1c12b21ea9c066c128f58324d061602fe64c62.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/b37d8448c6390cce2043b1803fe076ee96b5d6f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38f90adad17ade4e5e9b299cd7960ace9d2bb4d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/5512779458ec77f28a927571c8928ce44681ce06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5572acb8ea2bbb53b5af50b4101504fd85fda0d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/4e4f4a62522287c9056052d1371bdd181aa1be33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0778b635a29c162f2ac3646a856f570529bad6c2">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10640a5b75bd9a74eaf5dfe7dd244f663d90616a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/cebfb0e3bffd495fb12e48d80beb905547288e45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3dfe4ea472667470453639fa0f93a2527c86cdde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/6eaf321e5cd96fe8682f1b425cbb4671917e91f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08303b8b376b0399b932f863fc616109833f7124">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a71c265d6507088c54ea51655e2a0442d7c1d12a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/10/hamcrest-library-1.3_c662d9c6eb64e21f6632ba516827eb404bebebdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/10/jsr305-2.0.1_c07096f98351848dc8748365f69a29b31d83a82e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/610f0ba8eeca997fa0af320b3b96c4ca418c164f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f061e4449615f99ec458bcf222ba02504e0c620c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/a3f65a88ea25ec2edb61f6eca1af5af4caf7a02f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc884e72faec58c5ce3958cf20329c1ecbdaeb77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/7d47f450c81ddb7da71b066581ae5278cb931fbf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ea6cd2b23b8913ae1c2db43d33592821fee4b2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_e6262f22d1746cb6c3db049e1508245ab74d676d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/96d32cc54bbed03d302b51a483c80d1b11985cf5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42450cb54249ff27f99998af3dcd365117db212a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/414b3b669dfb0aebe34cbf976280a6a6fb06ea4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/10/classes_31a78f1aae268986853c78a0ce352b043486e897/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/209f387bacebf4af2ab6fe78bee724ed675f0929/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d19cbb501ece2c652f2f25c51c74e767ab762c9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/e98ba027e5307cf2ffc7728048baa087a16cd15c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cde7cbccb735d2f117e76a728038556e1720c4c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/58b55f39b96cd8d08bc2abdd43e357e7c1b51b7c/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_882e788ca7bea2558ee25021850b6164c4e287bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/793fac9c4388d3497ae3458cca8a467423c35280/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38e8d7902f1a54fa6d2ed84e8920bd894b83535e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/66a7e02705cd78acd343bb7f10ac29bcf80c7892/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9754cef41584c64a2c6a7666b3919b2b723aa522/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/ed803d07e9565cf4e9d5d10d4802e53504d796b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9eaede4807f5b92183c151486b6d0da927ae5f6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/e98ba027e5307cf2ffc7728048baa087a16cd15c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_cde7cbccb735d2f117e76a728038556e1720c4c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/58b55f39b96cd8d08bc2abdd43e357e7c1b51b7c/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_882e788ca7bea2558ee25021850b6164c4e287bc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_4c8207edb593ab6fd5610a52e34a505d59eebeec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/dfa7938a5e323c9917965f8efb70fa87790348fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34264031f10ad3c1ba2c649ce7d706a43fd1f732/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/7dd6ab3d89f864a8481e03802b7f4e2a5d3101b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_5886fcc945a131d63bb20e409343b431c4065eb3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/3615b19734419c7b2aad770777f1f965cb9e42bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9255f067a6b7d921bc73929fcb877eaac5bcf95">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9df3d1c6e5b5a6875a6d7077f16ee966a06b2169/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_1ab6ee9f51a88d2eef61e7ecb7a03edcc9c74985/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/5512779458ec77f28a927571c8928ce44681ce06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_5572acb8ea2bbb53b5af50b4101504fd85fda0d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/a9e9bd3af98dcfe9be241571ddbfc9f26e58cef0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_275ac2b8509cc52c83083d4e126574cc6a7e0b0e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/5512779458ec77f28a927571c8928ce44681ce06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5572acb8ea2bbb53b5af50b4101504fd85fda0d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/cf0474b8ff1c473ef2d0f98eb58d62b49d374e85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/10/classes_074873c9a467294a23569590a0bd6f4087cc5d04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_c8e1008a5f3aa449dc3ebc780633218664afd62b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/10/hamcrest-integration-1.3_29bb4bd1f6694f2b9e6c94c7ceb298ae88377505/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/6e1b1f790e6a52fd8b0d5faba75272dc22e168ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_faa90bffb3378c23719afd8feee73887ae9546c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/a9e9bd3af98dcfe9be241571ddbfc9f26e58cef0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_275ac2b8509cc52c83083d4e126574cc6a7e0b0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/a3f65a88ea25ec2edb61f6eca1af5af4caf7a02f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc884e72faec58c5ce3958cf20329c1ecbdaeb77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/e98ba027e5307cf2ffc7728048baa087a16cd15c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cde7cbccb735d2f117e76a728038556e1720c4c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/616350b5d3b6511a1191bb3f0da892e54f209319/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa52e66fb8ec679b5953f1ec6869cb13557df013/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/b441c132f72502874fa23b4ed77422be52390dcd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1ede80a2939475da8eeeb983cfe4af11b803514/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.gradle/caches/modules-2/files-2.1/com.google.android.apps.dashclock/dashclock-api/2.0.0/fe40ba5457e17502d11114f39b45e9dfe3f51c6d/dashclock-api-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe40ba5457e17502d11114f39b45e9dfe3f51c6d">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/dashclock-api-2.0.0_4fbf698755996a10a7e6edb30ccb14b76424c1b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/1152fe400b9a516b62a04fb35e53f5a65c1ef563/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/10/classes_c544379a950e3a6b241e86e55701e75b6e8d60dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/b441c132f72502874fa23b4ed77422be52390dcd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_f1ede80a2939475da8eeeb983cfe4af11b803514.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/5babbe7cd4a9590ccb2ebe58be3dbcc35a3a9ac1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_49698c42272c71011d2b944172493fac14197365/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/a969781e6fe5376631b3c86c6c3954bbc6d225d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20d18dd856dbab26fda5f2d2495ed2a7d212b54b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/d0c6a894721ab0a66f2b218710c42a28374e964a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c5b97a28344ce33fc10327560a935c70a463152/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/dfa7938a5e323c9917965f8efb70fa87790348fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34264031f10ad3c1ba2c649ce7d706a43fd1f732/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/dfa7938a5e323c9917965f8efb70fa87790348fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_34264031f10ad3c1ba2c649ce7d706a43fd1f732.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/150942ba27128b818cef5cfa6f7fa0ca4537c304/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f504ed6ae1928628bf16d269813ecec27d85063/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/b46faf033d65768c405a6a9efbb6c7a6fb8e5e88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9c9911b755eae190113fd020dc878984bd5db47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/7a30dacda60ab6944427e3ace1ca06946ab6fba6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_399d97837917a9ec19bf1d8ca3d20f6ffa8f406c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/736235daa03101ab783d4a6edc5daa7af4ce60da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6eefc92f6b9e1af6cc6d91fa5902f636cf631e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/a9e9bd3af98dcfe9be241571ddbfc9f26e58cef0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_275ac2b8509cc52c83083d4e126574cc6a7e0b0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/a3f7069fe67ed61d275be4012c0829267ad822a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f41214e78b4cd66474f2fc6b2e00e801e9b2c12e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/4d3a1b5f007f1e169a15b0c759e87b9bcce79f9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c262d14674a6b7e4fc1c935373796a87e75b6a12/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/150942ba27128b818cef5cfa6f7fa0ca4537c304/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_2f504ed6ae1928628bf16d269813ecec27d85063.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/7dd6ab3d89f864a8481e03802b7f4e2a5d3101b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5886fcc945a131d63bb20e409343b431c4065eb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/76faa2e572e11ec6f2365944d4638315c3dacec4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01eec2aef7610982fc630c74d5328a55fa3e48dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/58b55f39b96cd8d08bc2abdd43e357e7c1b51b7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ceadf2479642e80546cc02d883927905cc8f7bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/a22a1080ab9202f0776559f70c6455369e0ccd81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e09b63171c0e3f4c93b857b483d9f93c61dca41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/10/hamcrest-core-1.3_10dbcde9eb7402a2c478b2450c81e8d4fde85025/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/7924f087d32673a1afc16779b39a062527c504ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5994ef8b5908f7c6936fdc8fce5be1f146076d11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/2cd0a6fe0332d8d0e9a58781c2771a4a96abca5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_423e2252774998d6febce5dbbb4bc57d5dbbf4c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/3254b3e49c8936f896595f3d50df44cf55c62899/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b2a66dd1ec1fcd23201775102dee3a94ceac3ad">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b1bc3da84994ad52fda852c49f0e8053f04ff58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/a8a1496337722ddf55dd7e6cbbc969d81408f59c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3436e03a3cd185260535953a72c6fccfa5c000d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/69fc7810227d92761810ac8a44da49032946da47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/10/classes_6fbaf9276a06ae7ea8254446e788ac2db4560d59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/10/junit-4.12_98d1fd566df8bb7e512c39ac56bd2fd197d51242/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/f3fa8dd9b9fe940a23df267b39590099dac64d14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e07913b7c71568c87a8d025852b05acf0638de7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/10/javax.inject-1_a5c60f02d9f4677b5872c79d0cabe6c58da3a9b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/f960617e9d898ef118d4019956bd8de7b08133de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22a4889e2471ca1b240048808d5abec461aa174d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/f207b0f87099e51a6c9ee8e4224b5a6cf2053821/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a31a103dc7d1c8b3e817d1bfeb64b1407edf9e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/739f858fd666872b71636accc95a8d2b60fecc1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26fb05a97aa5113f5655b708cf08fc2157532421/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/83ebc278f0e6e3538e8c92c6f069ab014bd09498/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4962b88f83e8441496ad19b26a7260806c64d2e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/10/javax.annotation-api-1.2_74a5dbd29ba37cf2f6f356ac341a12179d0430ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/83ebc278f0e6e3538e8c92c6f069ab014bd09498/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_4962b88f83e8441496ad19b26a7260806c64d2e1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/d93b018eeba7823f8416970595d535185e655a18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="23703f7654d2321ad67ad7af4eff590d3abad1cf">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b95e203031ba8ec39a1a019b870a3f1959ad81bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98eb08860d374eceb16b64b2949a6a85bad6c5f2">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5b6d148a0cedaa50b7d33bc5fde80825d0b6f7cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/4b73f9339af95c1e5fcea74d6b7dc9ef41877a67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d255b26a7f7ddf37f881e7fde9843485ad0282d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/6ca9576bbb624cec751dcad6b72a793f3dd3c26e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0deaa3f6d5bb4a7895c999afc34276827256e165/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/6ca9576bbb624cec751dcad6b72a793f3dd3c26e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_0deaa3f6d5bb4a7895c999afc34276827256e165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/350f3539761db2d82e3e89a5ec5db308971e92fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_ce3724d9f316254d1b4f4341f8d8ba3d1b058d93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/4d3a1b5f007f1e169a15b0c759e87b9bcce79f9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_c262d14674a6b7e4fc1c935373796a87e75b6a12.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/350f3539761db2d82e3e89a5ec5db308971e92fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce3724d9f316254d1b4f4341f8d8ba3d1b058d93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/7dd6ab3d89f864a8481e03802b7f4e2a5d3101b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5886fcc945a131d63bb20e409343b431c4065eb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/150942ba27128b818cef5cfa6f7fa0ca4537c304/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f504ed6ae1928628bf16d269813ecec27d85063/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/b37d8448c6390cce2043b1803fe076ee96b5d6f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38f90adad17ade4e5e9b299cd7960ace9d2bb4d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/dc8abcde38231300664fc62b3d32daa882e60381/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_504b6b7701e869385dd27afef3de982309106d60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/dfead31238207cd26c9953ba0d0eb318e4e7eee8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_146cf1f0729e8de72bcc4fc06cebad091876e124/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/7d31f87ce48e6a2f57bbdfad0ba435d2ceec1bc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/10/classes_30ead69e41aba868ab373b61b22cea839c9e20f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/6ca9576bbb624cec751dcad6b72a793f3dd3c26e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0deaa3f6d5bb4a7895c999afc34276827256e165/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/58b55f39b96cd8d08bc2abdd43e357e7c1b51b7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_5ceadf2479642e80546cc02d883927905cc8f7bb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/b5c9c9ff65715830add2d23bea870d983a2a1559/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61424a80cc61dc17829d094abce6aafb2538b516/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/074e13e536fc1c49606565e53dee0cef788e2c7d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7f7327289a1ab1c074adc1e015ed21594d60baf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/4b73f9339af95c1e5fcea74d6b7dc9ef41877a67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d255b26a7f7ddf37f881e7fde9843485ad0282d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/e7cd8f571ab4dd25a5b3dd7273e63836b78eee26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f2ac81d0a89d5e33d82e225bf4802623b05be84/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/b37d8448c6390cce2043b1803fe076ee96b5d6f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_38f90adad17ade4e5e9b299cd7960ace9d2bb4d1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/ec73f469af979fc8f8bf1ded4054978479684cfb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a716517ed0268360f9a586ee5a91d041072b836/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/b441c132f72502874fa23b4ed77422be52390dcd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1ede80a2939475da8eeeb983cfe4af11b803514/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/10/javawriter-2.1.1_d3bb38db91318833eab8fce29ef36ef5b8eacb4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/26f9be5028d2191e3630027aa1c64a19e016fef9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ebd18603c0013727799e7ed41bcb42f3df75c0">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/10/classes_0fb1e10143bb57cc68552ba11de691c1cb561979/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/be9951142bfd5851cf9d82586d1d0e49da937f6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb07348863fa906f1cb8dd487d8cf13447187390/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/34de30535b5a3ca84a1036d0b63b0298d295eef7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d1c12b21ea9c066c128f58324d061602fe64c62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/384445c4ba9329a609c8a966dca3bd49d9bd9583/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ffaa56c7290e98e514fcaba34a07bd19267074e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/c43c9010d9dd7074be4210b686dd2621fdb842c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc295ee22d65206e255840aff7f4809e0919ee93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/7f88f89efa84157fc816fcd67dbdc707e5375ed1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a777e58569b1df09c612c5b85db4ec3a6793f60a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_6d4ae76f129a0c5f30cf0c4fe669266d5ee5b96f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/7bec7a418731884e219c874c1cf16a41eeb1d40a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81f5cb8c30798e2b7a2c27f77e1f69b2f2ddb5a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/58b55f39b96cd8d08bc2abdd43e357e7c1b51b7c/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_882e788ca7bea2558ee25021850b6164c4e287bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/5d8f87ed56cf4b62d1eb9331b2594ff385d77530/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_652f14acd0b97f0bff864140c2bc0686e57a8bdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/12546c63bbbcad2c9a10f46cef8ad66af814e665/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6d7537f254235fb00482cc20864acc3271997f0">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe5f1d71ac633dd316e97dcbfecc971c55d0bc97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/b241c92d07accd44d99db088e70ffdd247cd3be7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_463008c499752c484c284b7b810ae86a6d8968da/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/ed803d07e9565cf4e9d5d10d4802e53504d796b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_9eaede4807f5b92183c151486b6d0da927ae5f6a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/ed803d07e9565cf4e9d5d10d4802e53504d796b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9eaede4807f5b92183c151486b6d0da927ae5f6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/3ef6938107f549af62d9fece18ca5b47a4a2f89e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46dd2419c4aa4bc76249be190a8a9198d47c53f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/716f78d96e28f343d3d2a6a11d243a0b53d3234e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0f343cb8089fb5f3750a7c616513367fa28c4ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/a732d5577088ed8df3431019464263611e093255/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fdc41e89433c6816930efb3f984411a64078585/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gy/.android/build-cache/4b73f9339af95c1e5fcea74d6b7dc9ef41877a67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/pre-dexed/debug/classes_d255b26a7f7ddf37f881e7fde9843485ad0282d0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/0f7cfa6fc5d37b9a0db0ae931ed8d6ca16408960/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aae29e50b615bee8f113af23b2d29bff30566c6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/801f8ce150b5eb9aaff865a791129ca69938e383/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcac7435781db56e25ab17c3f662227c517fc327">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12ab01ea22d302150a17b5cb948506c3cbd7fb6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/58b55f39b96cd8d08bc2abdd43e357e7c1b51b7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ceadf2479642e80546cc02d883927905cc8f7bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/42e39d07715a364d48b54dea9cdd4ed2471c0ac4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7118aee70be2579da7bc488325e2c2ba9f668514">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7598ff946f8c45291615bc21c0bca1204c1b639/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/83ebc278f0e6e3538e8c92c6f069ab014bd09498/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4962b88f83e8441496ad19b26a7260806c64d2e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/ec39b74f1f53cde275c2c7babab511a8fc62ca52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_400547b28d56f3204ddcb9963587765a0d784ce4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/57f622c195f28d87c07c39dd2e9ac47115aa1576/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a03e5ac7c5af5595b608b9968c619560d0adabe6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gy/.android/build-cache/350f3539761db2d82e3e89a5ec5db308971e92fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/gy/Desktop/Firebasetest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce3724d9f316254d1b4f4341f8d8ba3d1b058d93/classes.dex" />
+    </item>
+
+</items>

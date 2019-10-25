@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    fab:context="com.example.sisyphus.firebasetest1.fragment.PageFragment">
+
+    <RelativeLayout
+        android:id="@+id/pickerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/white"
+        android:layout_alignStart="@+id/calDisplay">
+
+        <TextView
+            android:id="@+id/datePicker"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:background="@drawable/back_orange"
+            android:text="Current Date"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="18dp"
+            style="@android:style/Widget.Material.DropDownItem.Spinner"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/calDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@+id/pickerLayout"
+        android:background="@color/md_grey_100"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:id="@+id/totalCalLabel"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:text="Total Cal"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_marginStart="44dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/totalCal"
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:text="0"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_alignBaseline="@+id/totalCalLabel"
+            android:layout_alignBottom="@+id/totalCalLabel"
+            android:layout_toEndOf="@+id/totalCalLabel" />
+        <TextView
+            android:id="@+id/unit"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:text="cal"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_alignBaseline="@+id/totalCal"
+            android:layout_alignBottom="@+id/totalCal"
+            android:layout_toEndOf="@+id/totalCal" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/buttonLayout"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:background="@color/white"
+        android:layout_below="@+id/calDisplay"
+        android:layout_alignParentStart="true">
+
+        <ImageButton
+            android:id="@+id/imageButton1"
+            android:padding="20dp"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="49dp"
+            android:layout_marginTop="34dp"
+            app:srcCompat="@drawable/bfst"
+            android:background="@drawable/buttonshape"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Breakfast"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_below="@+id/imageButton1"
+            android:layout_alignStart="@+id/imageButton1" />
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:padding="20dp"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/rice"
+            android:background="@drawable/buttonshape3"
+            android:layout_marginEnd="44dp"
+            android:layout_alignTop="@+id/imageButton1"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:id="@+id/tv2"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Lunch"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_below="@+id/imageButton2"
+            android:layout_alignStart="@+id/imageButton2" />
+
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:padding="20dp"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/dinner"
+            android:background="@drawable/buttonshape2"
+            android:layout_alignParentBottom="true"
+            android:layout_alignStart="@+id/imageButton1"
+            android:layout_marginBottom="31dp" />
+
+        <TextView
+            android:id="@+id/tv3"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Dinner"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_alignBaseline="@+id/tv4"
+            android:layout_alignBottom="@+id/tv4"
+            android:layout_alignStart="@+id/imageButton3" />
+        <ImageButton
+            android:id="@+id/imageButton4"
+            android:padding="20dp"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/candy"
+            android:background="@drawable/buttonshape4"
+            android:layout_alignTop="@+id/imageButton3"
+            android:layout_alignStart="@+id/imageButton2" />
+
+        <TextView
+            android:id="@+id/tv4"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/tv2"
+            android:layout_below="@+id/imageButton4"
+            android:text="Snacks"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>

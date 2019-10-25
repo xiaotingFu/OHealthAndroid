@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_steps"
+            android:icon="@drawable/ic_step_white"
+            android:title="@string/nav_steps" />
+        <item
+            android:id="@+id/nav_sleep"
+            android:icon="@drawable/ic_sleep_white"
+            android:title="@string/nav_sleep" />
+
+        <item
+            android:id="@+id/nav_diet"
+            android:icon="@drawable/ic_diet_white"
+            android:title="@string/nav_diet" />
+
+        <item
+            android:id="@+id/nav_medication"
+            android:icon="@drawable/ic_med_white"
+            android:title="@string/nav_medication" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/nav_settings" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="@string/nav_about_us" />
+            <item
+                android:id="@+id/nav_privacy_policy"
+                android:title="@string/privacy_policy" />
+        </menu>
+    </item>
+
+</menu>

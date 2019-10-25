@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sisyphus.firebasetest1.activity.FoodListActivity">
+
+    <!--Toolbar-->
+    <include
+        android:id="@+id/tToolbar"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        layout="@layout/my_toolbar"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+
+    <RelativeLayout
+        android:id="@+id/calDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:ignore="MissingConstraints"
+        android:layout_below="@+id/tToolbar"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:id="@+id/totalCalLabel"
+            android:layout_width="100dp"
+            android:layout_height="35dp"
+            android:text="Meal Cal:"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_marginStart="14dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/totalCal"
+            android:layout_width="160dp"
+            android:layout_height="35dp"
+            android:text="000000"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_alignBaseline="@+id/totalCalLabel"
+            android:layout_alignBottom="@+id/totalCalLabel"
+            android:layout_toEndOf="@+id/totalCalLabel" />
+        <TextView
+            android:id="@+id/unit"
+            android:layout_width="50dp"
+            android:layout_height="35dp"
+            android:text="cal"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_alignBaseline="@+id/totalCal"
+            android:layout_alignBottom="@+id/totalCal"
+            android:layout_toEndOf="@+id/totalCal" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/time"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        android:padding="10dip"
+        android:weightSum="1"
+
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp"
+        android:layout_below="@+id/calDisplay"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:id="@+id/label"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Time"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/timeViewer"
+            style="@android:style/Widget.Holo.Spinner"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+
+            android:text="Current Time"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_marginStart="28dp"
+            android:layout_alignBaseline="@+id/label"
+            android:layout_alignBottom="@+id/label"
+            android:layout_toEndOf="@+id/label" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/foodList_container"
+        android:layout_width="wrap_content"
+        android:layout_height="320dp"
+        android:orientation="horizontal"
+        android:weightSum="1"
+
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp"
+        android:layout_below="@+id/time"
+        android:layout_alignParentStart="true"
+        >
+        <TextView
+            android:id="@+id/label3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Your Food List"
+            android:background="@color/md_orange_200"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+
+            android:layout_alignParentStart="true" />
+
+        <ListView
+            android:id="@+id/food_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+
+            android:layout_below="@+id/label3" />
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/addBtn"
+        android:text="Add More Food"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:background="@color/md_orange_500"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/foodList_container" />
+
+
+</RelativeLayout>

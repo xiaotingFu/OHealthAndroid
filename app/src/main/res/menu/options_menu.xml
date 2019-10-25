@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Search / will display always -->
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_menu_search"
+        android:showAsAction="ifRoom"
+        android:title="Search Food"
+        app:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+
+    <!-- Next -->
+    <item android:id="@+id/action_next"
+        android:icon="@drawable/ic_menu_next"
+        android:title="Next"
+        android:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource" />
+
+
+
+</menu>

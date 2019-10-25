@@ -1,0 +1,72 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="90dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="6dip"
+    android:background="@color/md_grey_200">
+
+
+        <TextView
+            android:id="@+id/clockTime"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="09:00"
+            android:textSize="35sp"
+            android:textColor="@color/md_blue_200"
+
+            android:layout_marginStart="23dp"
+            android:layout_above="@+id/note"
+            android:layout_alignParentStart="true" />
+        <TextView
+            android:id="@+id/drugName"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="ganmao"
+            android:textSize="20sp"
+            android:textColor="@color/md_purple_200"
+
+            android:layout_below="@+id/clockTime"
+            android:layout_toEndOf="@+id/duration" />
+
+        <TextView
+            android:id="@+id/note"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Alarm"
+            android:textSize="12sp"
+            android:textColor="@color/md_grey_500"
+            android:layout_above="@+id/info"
+            android:layout_alignStart="@+id/clockTime" />
+
+        <TextView
+            android:id="@+id/info"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="Take 10"
+            android:textSize="12sp"
+            android:textColor="@color/md_grey_500"
+            android:layout_marginBottom="7dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignStart="@+id/note" />
+
+        <TextView
+            android:id="@+id/duration"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="In 8 hr 15 min"
+            android:textSize="12sp"
+            android:textColor="@color/md_grey_500"
+            android:layout_below="@+id/note"
+            android:layout_toEndOf="@+id/info" />
+
+        <Switch
+            android:id="@+id/switch2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="27dp" />
+
+
+</RelativeLayout>
